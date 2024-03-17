@@ -26,6 +26,10 @@
 
 MIT
 
+## Credits
+
+FSF Tutor Chris Baird and helped with deployment
+
 ## Screenshot
 
 
